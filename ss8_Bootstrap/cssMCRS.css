@@ -1,0 +1,13 @@
+.navbar-collapse{
+  position: relative;
+  flex-grow: 1;
+
+}
+.justify-content-xxl-end{
+  position: relative;
+  text-align: right;
+}
+html{
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}

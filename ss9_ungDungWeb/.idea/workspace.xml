@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ed460da-87d4-48f4-b1c1-e6fba4f8885a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ss7_ThietKeBoCucTrangWeb/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss7_ThietKeBoCucTrangWeb/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss7_ThietKeBoCucTrangWeb/layoutRWD.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss7_ThietKeBoCucTrangWeb/layoutRWD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss7_ThietKeBoCucTrangWeb/taoLayout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss7_ThietKeBoCucTrangWeb/taoLayout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss7_ThietKeBoCucTrangWeb/webHoatHinhTrucTuyen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss7_ThietKeBoCucTrangWeb/webHoatHinhTrucTuyen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_Bootstrap/LandingPage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_Bootstrap/TaoGallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_Bootstrap/cssMCRS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_Bootstrap/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_Bootstrap/demo11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_Bootstrap/taoGallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_Bootstrap/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_Bootstrap/testcss.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mainn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vvvvvvv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/.idea/ss5_CSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/.idea/ss5_CSS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/BaiTap/CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/BaiTap/CSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/BaiTap/dinhDangVanBan.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/BaiTap/dinhDangVanBan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/BaiTap/nhungCSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/BaiTap/nhungCSS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ss5_CSS/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ss6_CSS/demo.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2YmFuZN2mVnLlvHvdCv7wNoCPKB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/Modul 1/A0523I1-TRINHVANBAN/A0523I1-TrinhVanBan-modul3/ss9_ungDungWeb",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ed460da-87d4-48f4-b1c1-e6fba4f8885a" name="Changes" comment="" />
+      <created>1701123070351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701123070351</updated>
+      <workItem from="1701123071334" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
